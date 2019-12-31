@@ -2,7 +2,7 @@
 Quick piece of code I wrote to take a picture using my Raspberry Pi Camera Module and upload to AWS S3
 
 Hardware used;
-1) Raspberry Pi 4
+1) Raspberry Pi 4 B Quad Core 64 (4GB)
 2) Camera Module V2
 
 Software;
