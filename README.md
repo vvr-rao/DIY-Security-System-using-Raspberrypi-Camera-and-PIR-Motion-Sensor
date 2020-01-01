@@ -4,7 +4,7 @@ Quick piece of code I wrote to take a picture using my Raspberry Pi Camera Modul
 Hardware used;
 1) Raspberry Pi 4 B Quad Core 64 (4GB)
 2) Camera Module V2
-3) HC-SR501 PIR Motion Sensor
+3) HC-SR501 PIR (Passive Infra Red) Motion Sensor
 
 Software;
 1) An AWS account (I created a private bucket)
