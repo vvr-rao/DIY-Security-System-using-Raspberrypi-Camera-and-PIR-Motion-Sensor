@@ -1,4 +1,4 @@
-# DIY Security System. Uses Raspberry Pi Camera and Motion Sensor modules to detect motion, capture pictures and uplaod to AWS S3
+# DIY Security System. Uses Raspberry Pi Camera and Motion Sensor modules to detect motion, capture pictures and upload to AWS S3
 Quick piece of code I wrote to take a picture using my Raspberry Pi Camera Module and upload to AWS S3
 
 Hardware used;
