@@ -13,4 +13,4 @@ Software;
 Other;
 1) Connection to internet
 
-The code handles still images. Video capture and upload should be posible. Planning to integrate with some sort or motion sensor.
+The code handles still images. Video capture and upload should be posible. 
