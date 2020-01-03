@@ -7,9 +7,9 @@ Hardware used;
 3) HC-SR501 PIR (Passive Infra Red) Motion Sensor
 
 Software;
-1) An AWS account 
-        I created a private bucket to store files
-        A Lambda, SES to send emails - FYI: used existing Blueprint s3-get-object-python
+1) An AWS account. I created;
+        (a) A private bucket to store files
+        (b) A Lambda function using SES to send emails - FYI: used existing Blueprint s3-get-object-python
 2) Python (2.7,3.5,3.7) should all work. This should already be on the Pi. If not download it. Then download and install Boto3. I did NOT install AWS CLI.
 
 Other;
