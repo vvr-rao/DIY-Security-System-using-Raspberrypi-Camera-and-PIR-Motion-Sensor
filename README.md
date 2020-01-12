@@ -17,4 +17,4 @@ Other;
 
 The code handles still images. Video capture and upload should be posible. 
 
-Details explanation here: https://vvrrao.home.blog/raspberry-pi-aws-iot-basics-a-diy-security-system-using-the-pi-and-aws-s3/
+Detailed explanation here: https://vvrrao.home.blog/raspberry-pi-aws-iot-basics-a-diy-security-system-using-the-pi-and-aws-s3/
