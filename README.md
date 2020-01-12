@@ -15,6 +15,6 @@ Software;
 Other;
 1) Connection to internet
 
-The code handles still images. Video capture and upload should be posible. 
+The code handles still images. Video capture and upload should be posible as well. 
 
 Detailed explanation here: https://vvrrao.home.blog/raspberry-pi-aws-iot-basics-a-diy-security-system-using-the-pi-and-aws-s3/
